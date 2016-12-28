@@ -19,6 +19,6 @@ const Root = () => {
       </div>
     </BrowserRouter>
   )
-}
+};
 
 render(<Root/>, document.getElementById('main'));
